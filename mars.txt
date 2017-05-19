@@ -1,3 +1,5 @@
 mars is red
 
 added info on venus
+
+atmosphere is thin
